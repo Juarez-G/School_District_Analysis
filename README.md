@@ -63,8 +63,10 @@ There was a significant drop in the percent of passing in Math,Reading and Overa
 4. Type of school points to charter schools with smaller populations does do better with test scores overall as seen below.
 
 School Type
+
 ![Type_vx_Passing.png](Resources/Type_vx_Passing.png)
 
 
 Size of School
+
 ![Size_vs_Passing.png](Resources/Size_vs_Passing.png)
